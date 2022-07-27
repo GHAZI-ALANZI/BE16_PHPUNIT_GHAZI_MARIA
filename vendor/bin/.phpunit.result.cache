@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":262:{a:2:{s:7:"defects";a:2:{s:32:"TDD\Test\FileTest::testSumNumber";i:3;s:30:"TDD\Test\FileTest::testAverage";i:3;}s:5:"times";a:3:{s:26:"TDD\Test\FileTest::testSum";d:0.005;s:32:"TDD\Test\FileTest::testSumNumber";d:0;s:30:"TDD\Test\FileTest::testAverage";d:0.001;}}}
